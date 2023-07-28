@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+h1 {
+  text-align: center;
+}
+
+.box-restaurant {
+  box-shadow: inset 5em 1em gold;
+  border: 5px solid black;
+}
